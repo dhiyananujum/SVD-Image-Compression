@@ -1,4 +1,4 @@
-# SVD-Based RGB Image Compression
+ SVD-Based RGB Image Compression
 
 A Python-based application demonstrating the use of Singular Value Decomposition (SVD) and Linear Algebra for RGB image compression.
 
