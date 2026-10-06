@@ -2,6 +2,14 @@
 
 A Python-based application demonstrating the use of Singular Value Decomposition (SVD) and Linear Algebra for RGB image compression.
 
+# 🖼️ SVD-Based RGB Image Compression
+
+🚀 **[Try the Live App](https://svd-image-compression-3w49daue9ttuvds9del9q3.streamlit.app/)**
+
+A Python application demonstrating Singular Value Decomposition (SVD)
+for RGB image compression using low-rank matrix approximation.
+
+
 ## 📌 Project Overview
 
 This project demonstrates how Singular Value Decomposition can be used to obtain a low-rank approximation of an image and reduce the amount of data required to represent it.
